@@ -4,6 +4,6 @@ def prime?(i)
     false
   elsif i == 2
     true
-  else (2..i/2) {|n| i % }
+  else (2..i/2) {|int| i % int == 0}
 end
 end
