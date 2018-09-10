@@ -4,4 +4,5 @@ def prime?(i)
     false
   elsif i == 2
     true
+  else ()
 end
