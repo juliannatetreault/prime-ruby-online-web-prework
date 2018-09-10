@@ -4,6 +4,6 @@ def prime?(i)
     false
   elsif i == 2
     true
-  else i 
+  else (2..2/i)
 end
 end
