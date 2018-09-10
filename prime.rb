@@ -4,5 +4,5 @@ def prime?(i)
     false
   elsif i == 2
     true
-  else (2..i/2).none?
+  else (2..i/2).none? {i }
 end
