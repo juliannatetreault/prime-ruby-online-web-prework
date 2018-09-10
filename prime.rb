@@ -1,5 +1,6 @@
 # Add  code here!
 def prime?(i)
- return false if i <= 1 
- 
+  if i <= 1 
+    false
+  if i
 end
