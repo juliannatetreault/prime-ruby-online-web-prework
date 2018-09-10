@@ -2,5 +2,5 @@
 def prime?(i)
   if i <= 1 
     false
-  if i
+  elsif i == 2
 end
