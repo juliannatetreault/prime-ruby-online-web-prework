@@ -4,6 +4,6 @@ def prime?(i)
     return false
   else array = (2..i).to_a
     array.each do |int|
-      if 
+      if (i % int)
 end
 end
