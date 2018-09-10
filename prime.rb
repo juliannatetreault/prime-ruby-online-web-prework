@@ -7,4 +7,3 @@ def prime?(i)
   else (2..i/2) {|int| i % int == 0}
 end
 end
-end
