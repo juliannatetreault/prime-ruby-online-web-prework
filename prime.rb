@@ -2,6 +2,6 @@
 def prime?(i)
   if i < 2
     return false
-  else 
+  else array = 
 end
 end
