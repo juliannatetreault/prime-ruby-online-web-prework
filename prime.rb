@@ -5,3 +5,6 @@ def prime?(i)
     if (i % n == 0)
       return false 
 end
+end
+true
+end
